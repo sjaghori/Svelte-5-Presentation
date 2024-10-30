@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Slide from "../deck/slide.svelte";
+	import Slide from '../deck/slide.svelte';
 </script>
 
 <Slide animate>
